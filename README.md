@@ -1,3 +1,5 @@
+Based of Fagyi's LineageOS implementation for the HTC 10. See its XDA forum thread: https://forum.xda-developers.com/htc-10/development/rom-lineageos-16-1-unofficial-builds-pme-t3851614
+
 Unified Device Tree for HTC 10 (pme)
 ===========================================
 
